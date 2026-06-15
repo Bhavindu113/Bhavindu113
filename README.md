@@ -43,6 +43,10 @@ Hello! I’m Bhavindu Subasinghe, an undergraduate pursuing a Bachelor of Scienc
 
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavindu113&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=39FF14&point=FFFFFF&area_color=39FF14&title_color=00D9FF&area=true&hide_border=true)
+
+</div>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
